@@ -60,3 +60,20 @@ Descarare
               Descarca jocul "The Belgica Expedition" pentru a-ti antrena abilitatile de supravire si a deveni cel mai bun speolog, evadand din pestera in cel mai scurt timp posibil si a impartasii tuturor despre descoperirile facute in Antarctica!
 
 
+
+
+
+
+
+Bibliografie
+
+
+
+       Surse de inspiratie si provenienta
+                                          -chatGPT               
+                                          -Wikipedia
+                                          -Microsoft 3D library 
+                                          -Unity asset Store 
+                           (Google images)-
+
+
