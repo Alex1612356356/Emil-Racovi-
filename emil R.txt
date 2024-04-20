@@ -23,6 +23,24 @@ Biografie
                        expeditiile sale in numeroasele lucrari stiintifice pe care le-a realizat , publicandu-le in 
                        diverse reviste de specialitate . Cele mai cunoscute lucrari ale lui Emil Racovita sunt 
                        cele despre speologie și biologie antarctică.
+
+
+
+
+
+Poveste 
+                       
+                     Tu esti Emil Racovita si te aflii in expeditia Belgica din anul 1898. Impreuna cu prietenul tau, Louis Bernacchi, ati ramas blocati intr-o pestera cand studiati organismele din interiorul acesteia, insa, din nefericire, au fost prinsi de o furtuna puternica care a blocat intrarea in pestera cu gheata si zapada. Alaturi de prietenul tau, ai misiunea de a supravietuii in interiorul pesterii consumand hrana pe care o aveti la bordul navei, pestii din lacul inghetat, sa conservati caldura corporala si, facand foc, sa mentineti lumina in pestera pana cand vremea se va imbunatatii si veti putea parasi pestera.Succes!
+
+
+controale 
+                 D-miscare catre dreapta
+                 A-miscare catre stanga 
+                 W-urcare
+                 S-coborare
+                 E-pescuit
+                 Q-depozitare provizii pe barca     
+                     
                               
 
 
